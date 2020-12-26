@@ -1,3 +1,8 @@
+    /**
+     * @Author Lennert Van Eetvelt
+     */
+
+
 package PageObjectTests;
 
 import org.openqa.selenium.By;
