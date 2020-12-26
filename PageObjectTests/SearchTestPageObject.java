@@ -1,3 +1,7 @@
+    /**
+     * @Author Lennert Van Eetvelt
+     */
+
 package PageObjectTests;
 
 import org.junit.After;
